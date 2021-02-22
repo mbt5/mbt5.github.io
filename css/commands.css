@@ -1,0 +1,18 @@
+.cardcmd {
+    margin-top:30px;
+    border-radius: 15px;
+    transition-duration: 0.5s;
+}
+
+.badge {
+    margin-right: 10px;
+}
+  
+.cardcmd-text {
+    margin-top:20px;
+}
+
+.badge {
+    border-radius: 15px;
+}
+  
